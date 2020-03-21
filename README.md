@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to My Potential Journey
 
 You can use the [editor on GitHub](https://github.com/raveerocks/potential-journey/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
