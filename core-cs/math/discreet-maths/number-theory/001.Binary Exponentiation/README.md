@@ -39,3 +39,7 @@ Let's write n in base 2, for example:
   The final complexity of this algorithm is O(logn): we have to compute logn powers of a, and then have to do at most logn multiplications to get the final answer from them.
   
   The following recursive approach expresses the same idea:
+  
+  
+  
+  Reference : https://cp-algorithms.com/algebra/binary-exp.html
