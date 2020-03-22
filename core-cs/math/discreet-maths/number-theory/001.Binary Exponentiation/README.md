@@ -40,6 +40,7 @@ Let's write n in base 2, for example:
   
   The following recursive approach expresses the same idea:
   
+  ![](https://raw.githubusercontent.com/raveerocks/potential-journey/master/core-cs/math/discreet-maths/number-theory/001.Binary%20Exponentiation/Screenshot%202020-03-22%20at%204.42.07%20PM.png)
   
   
   Reference : https://cp-algorithms.com/algebra/binary-exp.html
